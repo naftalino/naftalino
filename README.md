@@ -1,8 +1,6 @@
-<h3 align="center">Entusiasta das tecnologias livres e do FOSS.</h3>
+<h3 align="center">Entusiasta das tecnologias no geral, especialmente do FOSS.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naftalino&label=Profile%20views&color=0e75b6&style=flat" alt="naftalino" /> </p>
-
-- Às vezes escrevo um pouco no [meu blog](https://naftalino.github.io/blog) :)
 
 - 📫 E-mail para contato: **jntslinux@gmail.com**
 </p>
