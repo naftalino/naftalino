@@ -23,7 +23,7 @@
 
 ###
 
-<p align="center">- I'm Jônatas.<br>- 📚 I'm currently learning Golang and Python.<br>-❤️ My hobby is programming, discovering new technologies and maintaining high-performance projects.</p>
+<p align="center">- I'm Jônatas.<br>- 📚 I'm currently learning C# and Python.<br>-❤️ My hobby is programming, discovering new technologies and maintaining high-performance projects.</p>
 
 ###
 
