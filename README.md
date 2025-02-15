@@ -14,7 +14,7 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://i.pinimg.com/originals/03/07/f2/0307f226273b0df171f97669d609b8d1.gif"  />
+  <img height="150" src="https://media.tenor.com/fdMUA7XdUWEAAAAM/tanya-keys-mmhoph.gif"  />
 </div>
 
 ###
@@ -23,7 +23,7 @@
 
 ###
 
-<p align="center">- I'm Jônatas.<br>- 📚 I'm currently learning C# and Python.<br>-❤️ My hobby is programming, discovering new technologies and maintaining high-performance projects.</p>
+<p align="center">- I'm Jônatas.<br>- 📚 I'm currently learning C# and TypeScript<br>-❤️ My hobby is programming, discovering new technologies and maintaining high-performance projects.</p>
 
 ###
 
@@ -47,16 +47,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=naftalino&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
