@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jônatas</h1>
 <h3 align="center">I love discover new technologies and solve problems.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naftalino&label=Profile%20views&color=0e75b6&style=flat" alt="naftalino" /> </p>
-
 - 🌱 I’m currently learning **C# and .NET Core ecossystem.**
 
 - 📫 How to reach me **jonatasdeveloper@proton.me**
