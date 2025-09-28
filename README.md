@@ -8,7 +8,7 @@
 ![Embedded](https://img.shields.io/badge/Embedded-FF6B35?style=for-the-badge&logo=arduino&logoColor=white)
 ---
 ## 🌍 What I believe and love
-> **Low-level programming, systems engineering, and making computers go fast.**  
+> **Low-level programming, mathematics, systems engineering, and making computers go fast.**  
 > Understanding how things work from silicon to software.
 > FOSS community.
 
